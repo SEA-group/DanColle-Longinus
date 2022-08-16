@@ -1,10 +1,10 @@
-﻿# [AP only] Lance of Longinus / ロンギヌスの槍
+﻿# Lance of Longinus / ロンギヌスの槍
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-Longinus?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-Longinus)
 ![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-Longinus)
 
-AP shell model modification
+Shell model modification
 
 ## Installation
 * **For WGC users**, copy `content` into `[WoWS folder]/bin/[largest number]/res_mods/`
